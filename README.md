@@ -7,11 +7,7 @@ Este é um sistema web completo para gestão de fichas de RPG, onde jogadores po
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Configuração do Ambiente](#configuração-do-ambiente)
-- [Instalação e Configuração do Banco de Dados](#instalação-e-configuração-do-banco-de-dados)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ---
 
