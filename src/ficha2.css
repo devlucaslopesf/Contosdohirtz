@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #CAD2C5;
+    margin: 0;
+    padding: 0;
+}
+
+.ficha-container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.ficha-container h2 {
+    color: #2F3E46;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.ficha-container p {
+    margin: 10px 0;
+    color: #000000;
+}
+
+.compras {
+    margin-top: 20px;
+}
+
+.compras h3 {
+    color: #2F3E46;
+}
+
+.compras ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.compras li {
+    background-color: #f1f1f1;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.logout-button {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #2F3E46;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.message {
+    color: #2F3E46;
+    text-align: center;
+    margin: 20px auto;
+    font-weight: bold;
+}
+
+.loja {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.loja h3 {
+    color: #2F3E46;
+    margin-bottom: 10px;
+}
+
+.item {
+    padding: 10px 0;
+}
+
+.item p {
+    margin: 5px 0;
+}
+
+button[type="submit"] {
+    background-color: #2F3E46;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #84A98C;
+}
