@@ -38,7 +38,7 @@ Uma visualização das principais telas do sistema:
 ![Página de Login](./images/register.png)
 
 ## Painel de Administração
-![Painel de Administração](./images/admiin.png)
+![Painel de Administração](./images/admin.png)
 
 ## Página da Ficha
 ![Página da ficha ](./images/ficha.png)
