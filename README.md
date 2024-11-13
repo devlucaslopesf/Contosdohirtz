@@ -43,6 +43,9 @@ Uma visualização das principais telas do sistema:
 ## Página da Ficha
 ![Página da ficha ](./images/ficha.png)
 
+## Página de Editar Ficha
+![Editar Ficha ](./images/edit.png)
+
 ## Estrutura do Projeto
 
 ```plaintext
