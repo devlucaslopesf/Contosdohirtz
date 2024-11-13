@@ -66,5 +66,4 @@ rpg-website/
 ├── admin.php               # Painel de administração
 ├── logout.php              # Logout do usuário
 ├── README.md               # Documentação do projeto
-└── .gitignore              # Arquivos a serem ignorados pelo Git
 
